@@ -5,4 +5,3 @@ pip3 install Flask
 systemctl enable mariadb
 systemctl start mariadb
 
-mkdir /opt/flaskapp && cd /opt/flaskapp/
