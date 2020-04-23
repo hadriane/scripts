@@ -1,4 +1,4 @@
-# A collection of scripts
+## A Collection of Scripts
 
 ### Application Scripts
 *Location: *
