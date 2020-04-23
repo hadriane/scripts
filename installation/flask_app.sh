@@ -4,6 +4,7 @@ yum -y install python3 python3-devel.x86_64 mysql-devel gcc-c++.x86_64 mariadb-s
 pip3 install Flask pyyaml flask_mysqldb
 systemctl enable mariadb
 systemctl start mariadb
+mkdir /opt/flaskapp
 
 mysql -e "DROP USER ''@'localhost'"
 mysql -e "DROP USER ''@'$(hostname)'"
