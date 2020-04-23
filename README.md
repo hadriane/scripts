@@ -1,10 +1,10 @@
 ## A Collection of Scripts
 
 ### Application Scripts
-*Location: *
+*Location: [URL](https://github.com/hadriane/scripts/tree/master/app/)*
 
 ### Installation Scripts
-*Location: *
+*Location: [URL](https://github.com/hadriane/scripts/tree/master/scripts/installation)*
 
 ### Unit Test
-*Location: *
+*Location: [URL](https://github.com/hadriane/scripts/tree/master/scripts/unittest)*
