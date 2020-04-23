@@ -1,7 +1,7 @@
 #!/bin/bash
 
 yum -y install python3 wget bzip2
-yum -y install firefox Xvfb libXfont Xorg
+yum -y install Xvfb libXfont Xorg
 yum -y groupinstall "X Window System" "Desktop" "Fonts" "General Purpose Desktop"
 pip3 install selenium
 wget https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-2.1.1-linux-x86_64.tar.bz2
