@@ -1,10 +1,10 @@
 ## A Collection of Scripts
 
 ### Application Scripts
-*Location: [URL](https://github.com/hadriane/scripts/tree/master/app/)*
+- [Flask App](https://github.com/hadriane/scripts/tree/master/app/flask)
 
 ### Installation Scripts
-*Location: [URL](https://github.com/hadriane/scripts/tree/master/scripts/installation)*
+- [flask_app.sh](https://github.com/hadriane/scripts/blob/master/installation/flask_app.sh)
 
 ### Unit Test
-*Location: [URL](https://github.com/hadriane/scripts/tree/master/scripts/unittest)*
+- [selenium_flaskapp.py](https://github.com/hadriane/scripts/blob/master/installation/flask_app.sh)
