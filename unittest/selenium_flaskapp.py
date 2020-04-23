@@ -1,5 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+
+
 driver = webdriver.PhantomJS()
 
 for x in range(6):
@@ -11,5 +13,6 @@ for x in range(6):
 	driver.find_element(By.NAME, "email").click()
 	driver.find_element(By.NAME, "email").send_keys("selenium_" + str(x) + "@test.com")
 	driver.find_element(By.CSS_SELECTOR, "input:nth-child(5)").click()
+
 driver.close()
   
